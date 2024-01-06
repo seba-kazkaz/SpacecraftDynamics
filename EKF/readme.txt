@@ -1,0 +1,1 @@
+The Extended Kalman Filter (EKF) repositry houses projects that use EKF to solve problems in spacecraft attitude determination. You can read more about (Extended) Kalman Filters from the paper included in this repository. 
