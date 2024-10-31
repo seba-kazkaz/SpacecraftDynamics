@@ -1,1 +1,1 @@
-EKP for various spacecraft applications.
+EKF for various spacecraft applications.
